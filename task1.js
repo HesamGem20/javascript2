@@ -1,4 +1,4 @@
-// Define a function called findSteveIndex that takes an array of names as an argument
+// Define a function called findSteveIndex that takes an array of names as an argument.
 function findSteveIndex(names) {
   // Loop through each element of the names array using a for loop
   for (let i = 0; i < names.length; i++) {
